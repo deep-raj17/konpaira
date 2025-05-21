@@ -21,6 +21,7 @@ TECHSTACK:
 
 HTML, CSS, JavaScript, EJS, Mongodb, Nodejs, Express
 
+
 DEPLOYMENT:
 
 
@@ -28,4 +29,4 @@ DEPLOYMENT:
  
    npm install
    
-  npm start
+         npm start
