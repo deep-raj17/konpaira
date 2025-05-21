@@ -16,10 +16,12 @@ SCREENSHOTS
 ![13hgnzq3](https://github.com/user-attachments/assets/85324a8e-332d-49b9-8827-0e1eed705971)
 ![v620iwjb](https://github.com/user-attachments/assets/754cbdb3-ec48-4536-a4e1-45d890c31a54)
 
+
 TECHSTACK:
 
 
 HTML, CSS, JavaScript, EJS, Mongodb, Nodejs, Express
+
 
 
 DEPLOYMENT:
@@ -27,6 +29,6 @@ DEPLOYMENT:
 
  To deploy this project run
  
-   npm install
+       npm install
    
          npm start
