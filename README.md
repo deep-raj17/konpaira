@@ -17,6 +17,8 @@ TECHSTACK:
 HTML, CSS, JavaScript, EJS, Mongodb, Nodejs, Express
 
 DEPLOYMENT:
+
  To deploy this project run
+ 
    npm install
   npm start
